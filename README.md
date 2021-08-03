@@ -25,7 +25,7 @@ There are two possible ways to submit your project. Your instructor should have 
 - [ ] Create a pull request of `firstname-lastname` against your `main` branch.
 - [ ] Open the assignment in Canvas and submit your pull request.
 
-### Task 2: Minimum Viable Product
+### Task 2: Minimum Viable Product    
 
 - Add the code necessary to `index.js`, `api/server.js` and `api/posts/posts-router.js` to implement the endpoints listed below.
 - Separate the endpoints that begin with `/api/posts` into a separate Express Router inside `api/posts/posts-router.js`.
